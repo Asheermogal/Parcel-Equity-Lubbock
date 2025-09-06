@@ -1,4 +1,6 @@
-﻿# Parcel-Equity-Lubbock
+﻿![CI](https://github.com/Asheermogal/Parcel-Equity-Lubbock/actions/workflows/ci-python.yml/badge.svg)
+
+# Parcel-Equity-Lubbock
 
 ## Overview
 Brief description.
@@ -12,4 +14,5 @@ How to run.
 
 ---
 © 2025 Asheer Mogal — All rights reserved.
+
 
